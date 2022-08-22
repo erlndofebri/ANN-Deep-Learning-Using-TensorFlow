@@ -14,5 +14,5 @@ Result of this project can be a guidance of medical team to decide which patient
 ## Good Loan Prediction:
 Lending company needs to clasify their borrowers whether the borrowers is a good loan borrowers or bad loan borrowers. Results of this project is a list of borrowers with loan_status (good/bad). This list helps business decesion maker to decide will accept the loan or refuse the loan
 
-## House Price Prediction
+## House Price Prediction:
 This project goal is to predict the prices of the house given of house specification. This information helps developer to determine estimation of their houses

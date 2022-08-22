@@ -1,4 +1,4 @@
-# ANN Deep-Learning Using TensorFlow
+# ANN Deep Learning Using TensorFlow
 this repository consist of 5 projects of ANN deep learning TensorFlow (Regression and Classification Problem)
 
 ## Bank Customers Churn Prediction:
